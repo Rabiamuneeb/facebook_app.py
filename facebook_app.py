@@ -222,3 +222,4 @@ elif option == "🔗 Correlation":
 # -------------------------------
 st.markdown("---")
 st.markdown("<p style='text-align: center; color: #888;'>📊 Dashboard designed with ❤️ by Rabia Muneeb </p>", unsafe_allow_html=True)
+
